@@ -54,4 +54,4 @@ The `examples` directory contains two examples built for JUCE: a real-time 2D sp
 
 ### Get in touch
 
-Visit https://koaladsp.com or check out our [Discord](https://discord.gg/PFE5Byyr).
+Visit https://koaladsp.com or check out our [Discord](https://discord.gg/QndSN2w74S).
